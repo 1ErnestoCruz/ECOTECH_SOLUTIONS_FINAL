@@ -1,0 +1,18 @@
+[
+  {
+    "id_producto": "SOL-001",
+    "nombre": "Panel Solar Eco 450",
+    "precio": 189999.9,
+    "stock": 12,
+    "tipo": "PanelSolar",
+    "eficiencia": 21.5,
+    "potencia_w": 450
+  },
+  {
+    "id_producto": "BAT-002",
+    "nombre": "Batería Sustentable",
+    "precio": 85000.0,
+    "stock": 8,
+    "tipo": "DispositivoEcologico"
+  }
+]

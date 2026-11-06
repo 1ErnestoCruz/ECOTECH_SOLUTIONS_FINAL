@@ -1,0 +1,18 @@
+[
+  {
+    "planta": "Planta Norte",
+    "consumo_kwh": 12500
+  },
+  {
+    "planta": "Planta Sur",
+    "consumo_kwh": 9800
+  },
+  {
+    "planta": "Planta Este",
+    "consumo_kwh": 15750
+  },
+  {
+    "planta": "Planta Oeste",
+    "consumo_kwh": 7200
+  }
+]
